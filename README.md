@@ -100,6 +100,7 @@ I agree:
       year={2019}
     }
 ```
+```bash
 @article{dong-risks-2023,
       title={On the Risk of Cancelable Biometrics},
       author={Dong, Xingbo and Jaewoo Park and Jin, Zhe and Teoh, Andrew Beng Jin and Tistarelli, Massimo and Wong, KokSheik},
