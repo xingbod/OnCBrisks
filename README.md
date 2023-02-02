@@ -1,5 +1,3 @@
-**Please raise your questions in the Issues section and I will take a look at the issues, do not send me emails.**
-
 # Usage based on BioHashing example
 
 # Fitness function
@@ -100,6 +98,13 @@ I agree:
       author={Dong, Xingbo and Jin, Zhe and Teoh, Andrew Beng Jin and Tistarelli, Massimo and Wong, KokSheik},
       journal={arXiv preprint arXiv:1910.07770},
       year={2019}
+    }
+```
+@article{dong-risks-2023,
+      title={On the Risk of Cancelable Biometrics},
+      author={Dong, Xingbo and Jaewoo Park and Jin, Zhe and Teoh, Andrew Beng Jin and Tistarelli, Massimo and Wong, KokSheik},
+      journal={},
+      year={2023}
     }
 ```
 ----------------------------------
